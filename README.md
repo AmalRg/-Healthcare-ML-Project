@@ -1,4 +1,4 @@
-# Healthcare-ML-Project 🩺
+# Healthcare-ML-Project 🩺 👨‍💻
 Dummy data with Multi Category Classification Problem
 
 💡 This is my first project using machine learning 👨🏻‍💻 to analyze and predict outcomes based on the healthcare dataset available on Kaggle.
